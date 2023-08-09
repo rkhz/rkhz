@@ -1,6 +1,8 @@
-### Hi there 👋
+
+![noise](https://github.com/rkhz/rkhz/assets/83406489/29951bea-602c-48d6-a193-406d40e1ec64)
 
 <!--
+### Hi there 👋
 **rkhz/rkhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
