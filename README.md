@@ -1,5 +1,6 @@
-
-![noise](https://github.com/rkhz/rkhz/assets/83406489/29951bea-602c-48d6-a193-406d40e1ec64)
+<p align="center">
+  <img src="https://github.com/rkhz/rkhz/assets/83406489/64b92dbe-36fd-4fce-b77b-3432ce791b3f" />
+</p>
 
 <!--
 ### Hi there 👋
